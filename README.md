@@ -4,12 +4,15 @@
 ## Required knowledge
 
 - [ ] Technical english
-- [ ] Basic functional programming
+- [ ] Intermediate functional programming
+- [ ] Git and version control
 
 ## Desirable knowledge
 
 - [ ] Compiler design and parser generators
 - [ ] Ramda JS
+- [ ] LISP dialects, specifically Hy
+- [ ] ML dialects, such as OCaml, ReasonML and Haskell
 
 ## Stack
 
@@ -21,12 +24,17 @@ stacks in different projects.
 - JavaScript
   - NodeJS
   - React
-- ReasonML/OCaml
+- ReasonML
+  - ReactReason
+- OCaml
+  - OCamllex and OCamlyacc
+  - Menhir
 - Haskell
+  - Alex and Happy
 - Elixir
   - Phoenix
 - C#
-  - Asp.NET
-- AdvPL
+  - Asp.NET Core
+- AdvPL or Harbour
 - C++
   - V8 Engine
